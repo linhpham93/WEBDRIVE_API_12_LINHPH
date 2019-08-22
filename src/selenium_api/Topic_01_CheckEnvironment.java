@@ -14,7 +14,7 @@ public class Topic_01_CheckEnvironment {
 
 	@BeforeClass
 	public void beforeClass() {
-		System.out.println("Pre-condition - Step 01: Init Chrome browser");
+		System.out.println("Pre-condition - Step 01: Init Chrome browser - check integrate ");
 		// System.setProperty("webdriver.chrome.driver",".\\libraries\\chromedriver.exe");
 		// driver = new ChromeDriver();
 
